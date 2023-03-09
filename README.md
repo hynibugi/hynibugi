@@ -18,7 +18,7 @@
         src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
- 
+
  
 ### 🛠Stack🛠
 <p>
@@ -31,10 +31,8 @@
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" style="width:auto; height:20px;"/>
 </p>
 
-<br/>
-
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hynibugi&show_icons=true&theme=dracula)
+### 🍀Git🍀
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hynibugi&show_icons=true&theme=merko&bg_color=FFF0F5)
  
  
    </div>
