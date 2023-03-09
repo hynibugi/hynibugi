@@ -30,4 +30,11 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" style="width:auto; height:20px;"/>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" style="width:auto; height:20px;"/>
 </p>
-  </div>
+
+<br/>
+
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hynibugi&show_icons=true&theme=dracula)
+ 
+ 
+   </div>
