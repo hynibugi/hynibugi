@@ -10,6 +10,16 @@
 ### 🌷 Blog🌷
  https://blog.naver.com/1313dls 
  
+ 
+### 🌼sns🌼
+ 
+ <a href="https://instagram.com/hynibugi">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+ 
+ 
 ### 🛠Stack🛠
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" style="width:auto; height:20px;" />
