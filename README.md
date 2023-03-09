@@ -19,7 +19,10 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+### 🍀Git🍀
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hynibugi&show_icons=true&theme=merko&bg_color=FFF0F5)
  
+  
 ### 🛠Stack🛠
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" style="width:auto; height:20px;" />
@@ -30,9 +33,4 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" style="width:auto; height:20px;"/>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" style="width:auto; height:20px;"/>
 </p>
-
-### 🍀Git🍀
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hynibugi&show_icons=true&theme=merko&bg_color=FFF0F5)
- 
- 
    </div>
